@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+    font-family: 'Helvetica';
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+#header {
+
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../img/pattern.jpeg");
+    background-color: #cccccc;
+    margin: 70px 0;
+}
+
+.subTitle {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: -6px;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.pink {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
